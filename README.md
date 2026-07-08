@@ -2,7 +2,7 @@
 
 This project is an interactive image slider built using **HTML**, **CSS**, and **JavaScript**, incorporating the **Swiper.js** library for touch-enabled sliding functionality. It features smooth animations and transitions to enhance user experience.
 
-## 📁 Project Structure
+## Project Structure
 ```bash
 Swipper-with-animations/
 ├── css/
@@ -18,20 +18,20 @@ Swipper-with-animations/
 ├── index.html # Main HTML file
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Semantic structure of the webpage
 - **CSS3** – Styling and animations for the swiper
 - **JavaScript** – Interactivity and Swiper initialization
 - **Swiper.js** – Modern mobile touch slider with hardware-accelerated transitions
 
-## 🎨 Features
+## Features
 
 - Responsive and touch-friendly image slider
 - Smooth transition effects between slides
 - Organized folder structure for easy maintenance
 
-## 🚀 Getting Started
+## Getting Started
 
 To view the swiper locally:
 
